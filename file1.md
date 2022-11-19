@@ -1,3 +1,2 @@
-let's go push
+today we begin a third lesson of git
 
-let's go pull
